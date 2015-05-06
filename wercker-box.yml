@@ -1,6 +1,6 @@
 name: rvm_cmake
 version: 2.0.5
-inherits: wercker-labs/docker@0.0.7
+inherits: wercker-labs/docker
 type: main
 platform: ubuntu@13.10
 script: |
